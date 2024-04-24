@@ -1,4 +1,4 @@
-# datastructures-algorithms
+# Datastructures-Algorithms
 List of Programs related to data structures and algorithms
 
 ## Data Strctures
